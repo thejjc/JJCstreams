@@ -1,2 +1,2 @@
-# JJCstreams.github.io
+# JJCstreams
 Journaling and Documenting Content Creation Website
